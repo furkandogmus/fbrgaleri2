@@ -3,16 +3,16 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
   {
-    original: 'https://i.postimg.cc/HrS6DGyv/1.png',
-    thumbnail: 'https://i.postimg.cc/HrS6DGyv/1.png',
+    original: 'https://i.postimg.cc/25YMWr8Y/1.png',
+    thumbnail: 'https://i.postimg.cc/25YMWr8Y/1.png',
   },
   {
-    original: 'https://i.postimg.cc/qtSQq8Q8/2.png',
-    thumbnail: 'https://i.postimg.cc/qtSQq8Q8/2.png',
+    original: 'https://i.postimg.cc/rmFHhjrY/2.png',
+    thumbnail: 'https://i.postimg.cc/rmFHhjrY/2.png',
   },
   {
-    original: 'https://i.postimg.cc/vcsq5tyh/3.png',
-    thumbnail: 'https://i.postimg.cc/vcsq5tyh/3.png',
+    original: 'https://i.postimg.cc/sDBkdT0k/3.png',
+    thumbnail: 'https://i.postimg.cc/sDBkdT0k/3.png',
   },
 ];
 
