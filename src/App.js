@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <MyGallery/>
-    <h1>FBR Galeri</h1>
+    <h1><a href="https://www.instagram.com/fbrgaleri">FBR Galeri</a> </h1>
     <MyGallery2/>
     </>
   );
