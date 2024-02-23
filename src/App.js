@@ -3,8 +3,10 @@ import MyGallery from './MyGallery';
 
 function App() {
   return (
+    <>
     <MyGallery/>
-    
+    <MyGallery/>
+    </>
   );
 }
 
