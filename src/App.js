@@ -5,6 +5,7 @@ function App() {
   return (
     <>
     <MyGallery/>
+    <h1>FBR Galeri</h1>
     <MyGallery/>
     </>
   );
